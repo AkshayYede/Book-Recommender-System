@@ -16,7 +16,7 @@ A machine learning-based web application that recommends books to users based on
 
 ## 📂 Dataset
 
-The project uses the [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) which consists of three files:
+The project uses the [Book-Crossing Dataset]([http://www2.informatik.uni-freiburg.de/~cziegler/BX/](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset) which consists of three files:
 
 * `books.csv` — Book metadata (Title, Author, Year, Publisher, Image URLs)
 * `users.csv` — User demographic info (User ID, Location, Age)
